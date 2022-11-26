@@ -1,0 +1,13 @@
+domain\Cuota.class
+domain\Filial.class
+domain\Duenno.class
+datos\AccesoDAO.class
+datos\CuotaDAO.class
+test\manejo_transacciones.class
+datos\DuennosDAO.class
+domain\Cuota_Extra.class
+test\Control.class
+datos\Conexion.class
+domain\Acceso.class
+datos\FilialDAO.class
+datos\Cuota_ExtraDAO.class
